@@ -15,6 +15,11 @@ I made this repo to study, so it should have errors or better ways to do some st
 
 - Just compile it using: `mvn clean install`;
 - Copy your file from `target/springus-1.0.0-SNAPSHOT.jar` to a nice place;
+- Execute these queries in your database:
+  ```
+  INSERT INTO roles(name) VALUES('ROLE_USER');
+  INSERT INTO roles(name) VALUES('ROLE_ADMIN');
+  ```
 - And run using `java (PUT YOUR ENV VARIABLES HERE) -jar springus-1.0.0-SNAPSHOT.jar`.
 
 ## Environment Variables
