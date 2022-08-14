@@ -15,6 +15,11 @@ Fiz esse projeto para estudar, então podem ter erros ou uma melhor forma de faz
 
 - Compile o projeto usando: `mvn clean install`;
 - Copie o arquivo de `target/springus-1.0.0-SNAPSHOT.jar` para um ótimo local;
+- Execute essas queries no seu banco de dados:
+  ```
+  INSERT INTO roles(name) VALUES('ROLE_USER');
+  INSERT INTO roles(name) VALUES('ROLE_ADMIN');
+  ```
 - Execute usando `java (COLOQUE AS VARIÁVEIS DE AMBIENTE AQUI) -jar springus-1.0.0-SNAPSHOT.jar`.
 
 ## Variáveis de ambiente.
