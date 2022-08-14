@@ -1,6 +1,6 @@
 # Spring + JWT + MariaDB
 
-🌍 Clique [aqui](https://github.com/Lucasmellof/spring-jwt-mariadb/blob/main/README.pt-br.md) para uma versão em Inglês(US).
+🌍 Clique [aqui](https://github.com/Lucasmellof/spring-jwt-mariadb/blob/main/README.md) para uma versão em Inglês(US).
 
 Fiz esse projeto para estudar, então podem ter erros ou uma melhor forma de fazer as coisas. Seja bem-vindo para abrir um  [Pull Request](https://github.com/Lucasmellof/spring-jwt-mariadb/pulls) ou criar uma [Issue](https://github.com/Lucasmellof/spring-jwt-mariadb/issues/new).
 
